@@ -16,6 +16,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | bugsbounty.io | England | @bugsbounty_com | ❌ | 🤫 | ❓ | ❓ | ❓ |
 | Bugv | Nepal | @bugvsecurity | ✅ | 📣 | ✅ | ❓ | ❓ |
 | Cesppa | USA | @inspectiv | ✅ | 🤫 + 📣  | ✅ | ❓ | ❓ |
+| Cyber3ra | India | @cyber3ra | ✅ | 🤫 + 📣 | ✅ | https://cyber3ra.com | https://cyber3ra.com/programs |
 | Cobalt | USA | @cobalt_io | ✅ | 🤫 | ✅ | https://app.cobalt.io/pentesters | ❓ |
 | Crowdswarm | United Arab Emirates | ❓ | ✅ | 🤫 + 📣  | ✅ | ❓ | https://app.crowdswarm.io/p.html |
 | Cyber Army Indonesia | Indonesia | @cyberarmyid | ✅ | 🤫 + 📣  | ✅ | https://www.cyberarmy.id/leaderboard | https://www.cyberarmy.id/programs |
