@@ -19,6 +19,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Cobalt | USA | [@cobalt_io](https://twitter.com/cobalt_io) | ✅ | 🤫 | ✅ | https://app.cobalt.io/pentesters | ❓ |
 | Code4rena | ❓ | [@code4rena](https://twitter.com/code4rena) | ✅ | 📣 | ✅ | https://code4rena.com/leaderboard | https://code4rena.com/contests |
 | Crowdswarm | United Arab Emirates | ❓ | ✅ | 🤫 + 📣  | ✅ | ❓ | https://app.crowdswarm.io/p.html |
+| Cyber3ra | India | [@cyber3ra](https://twitter.com/cyber3ra) | ✅ | 🤫 + 📣 | ✅ | https://app.cyber3ra.com | https://cyber3ra.com |
 | Cyber Army Indonesia | Indonesia | [@cyberarmyid](https://twitter.com/cyberarmyid) | ✅ | 🤫 + 📣  | ✅ | https://www.cyberarmy.id/leaderboard | https://www.cyberarmy.id/programs |
 | Cyscope | Switzerland & Latam| [@cy_scope](https://twitter.com/cy_scope) | ✅ | 🤫 + 📣 | ✅ | ❓ | ❓ |
 | Detectify | Sweden | [@detectify](https://twitter.com/detectify) | ✅ | 🤫 | ✅ | ❓ | ❓ |
